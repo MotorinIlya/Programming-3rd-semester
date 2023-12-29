@@ -1,0 +1,1 @@
+This laboratory work implements the counting of identical words in the text and the calculation of frequency.

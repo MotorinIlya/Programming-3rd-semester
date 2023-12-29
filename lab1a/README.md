@@ -1,0 +1,1 @@
+This laboratory work is an implementation of a bitset.
